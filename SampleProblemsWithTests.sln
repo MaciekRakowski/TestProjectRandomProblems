@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectRoblox", "UnitTestProjectRoblox\UnitTestProjectRoblox.csproj", "{817A4855-0D3C-4F4E-AAFA-15D092D84638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryRoblox", "ClassLibraryRoblox\ClassLibraryRoblox.csproj", "{A879EC7C-E8AE-4B32-B0CD-1040CF9732AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817A4855-0D3C-4F4E-AAFA-15D092D84638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817A4855-0D3C-4F4E-AAFA-15D092D84638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817A4855-0D3C-4F4E-AAFA-15D092D84638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817A4855-0D3C-4F4E-AAFA-15D092D84638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A879EC7C-E8AE-4B32-B0CD-1040CF9732AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A879EC7C-E8AE-4B32-B0CD-1040CF9732AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A879EC7C-E8AE-4B32-B0CD-1040CF9732AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A879EC7C-E8AE-4B32-B0CD-1040CF9732AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
